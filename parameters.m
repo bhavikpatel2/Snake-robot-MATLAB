@@ -7,5 +7,5 @@ joint_damp = 5
 internal_damping =0.2
 
 %friction model
-x_friction =-0.5
-y_friction =-5
+x_friction =-2
+y_friction =-10
