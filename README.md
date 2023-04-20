@@ -4,4 +4,4 @@ Problem Objective: Make a simscape model of the snake robot using the different 
 Task-1: Design of multi-link structure of the snake robot.\
 Task-2: Define the reference co-ordinates.\
 Task-3: Design joint controller.\
-Please check Robot4_updated.slx and Robot4_parameters_updated.m
+Please check Robot4_updated.slx and parameters_Robot4_updated.m
