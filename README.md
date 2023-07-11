@@ -10,6 +10,8 @@ To run the code first run "Parameters_Robot_control.mlx" and then "Snake_Robot_H
 **Contribution:**\
 In this work, the multi-link snake robot is developed and the head tracking of the snake robot is done. The head tracking means that the head of the robot follows the given reference path and the entire robot follows the head link due to holonomic constraints.
 
+https://youtu.be/e9tZLNjmNEs
+
 **Acknowledgement:**\
 I am thankful to Dr. Roberto G. Valenti for continuing support and discussion on the improvement of the snake robot control scheme and Dr. Monalisa Pal to introduce this amazing project. I am also thankful to my supervisor Prof. Santosha K. Dwivedy who always encourages me to do new challenges and how to deal with failure.\
 The comments for the improvement are welcome.\
