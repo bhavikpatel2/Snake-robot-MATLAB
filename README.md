@@ -21,3 +21,6 @@ References:
 2. Mohammadi, A., Rezapour, E., Maggiore, M., & Pettersen, K. Y. (2015). Maneuvering control of planar snake robots using virtual holonomic constraints. IEEE Transactions on Control Systems Technology, 24(3), 884-899.
 3. Mukherjee, J., Mukherjee, S., & Kar, I. N. (2017). Sliding mode control of planar snake robot with uncertainty using virtual holonomic constraints. IEEE Robotics and Automation Letters, 2(2), 1077-1084.
 4. Patel, B. M., & Dwivedy, S. K. (2023). Virtual holonomic constraints based super twisting sliding mode control for motion control of planar snake robot in the uncertain underwater environment. Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering, 09596518231153253.
+
+![head_tracking](https://github.com/bhavikpatel2/Snake-robot-MATLAB/assets/53943901/4a4ebedc-c021-4629-a856-f7d09f0bf4c0)
+
