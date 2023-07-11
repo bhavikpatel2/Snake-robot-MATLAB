@@ -4,7 +4,7 @@ Problem Objective: Make a simscape model of the snake robot using the different 
 Task-1: Design of multi-link structure of the snake robot.\
 Task-2: Define the reference coordinates.\
 Task-3: Design joint controller.\
-Task-4: Design a head controller to make the robot path follow.\
+Task-4: Design a head controller to make the robot path follow.
 
 **Contribution:**\
 In this work, the multi-link snake robot is developed and the head tracking of the snake robot is done. The head tracking means that the head of the robot follows the given reference path and the entire robot follows the head link due to holonomic constraints.\
