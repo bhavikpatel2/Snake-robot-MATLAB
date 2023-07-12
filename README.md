@@ -5,7 +5,9 @@ Task-1: Design of multi-link structure of the snake robot.\
 Task-2: Define the reference coordinates.\
 Task-3: Design joint controller.\
 Task-4: Design a head controller to make the robot path follow.\
-To run the code first run "Parameters_Robot_control.mlx" and then "Snake_Robot_Head_Control.slx".
+To run the code first run "Parameters_Robot_control.mlx" and then "Snake_Robot_Head_Control.slx".\
+Required Software: MATLAB 2023a with Simulink and Simscape
+
 
 **Contribution:**\
 In this work, the multi-link snake robot is developed and the head tracking of the snake robot is done. The head tracking means that the head of the robot follows the given reference path and the entire robot follows the head link due to holonomic constraints.
