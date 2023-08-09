@@ -6,6 +6,7 @@ Task-2: Define the reference coordinates.\
 Task-3: Design joint controller.\
 Task-4: Design a head controller to make the robot path follow.\
 To run the code first run "Parameters_Robot_control.mlx" and then "Snake_Robot_Head_Control.slx".\
+"Snake_Robot_Head_Control_v1.slx" contains the knob that is used for given reference input by the user.\
 Required Software: MATLAB 2023a with Simulink and Simscape
 
 
